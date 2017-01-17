@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFBC", "VFBC\VFBC.csproj", "{12CA22CC-72C5-42CB-B2A1-8E7E36ADDF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONFields", "JSONFields\JSONFields.csproj", "{B45BED44-82B4-42A1-97AF-1BB33687F31F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CA22CC-72C5-42CB-B2A1-8E7E36ADDF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CA22CC-72C5-42CB-B2A1-8E7E36ADDF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CA22CC-72C5-42CB-B2A1-8E7E36ADDF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CA22CC-72C5-42CB-B2A1-8E7E36ADDF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45BED44-82B4-42A1-97AF-1BB33687F31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45BED44-82B4-42A1-97AF-1BB33687F31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45BED44-82B4-42A1-97AF-1BB33687F31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45BED44-82B4-42A1-97AF-1BB33687F31F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

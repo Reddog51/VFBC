@@ -1,0 +1,71 @@
+﻿body {
+}
+
+#outer {
+margin:auto;
+width:1580px;
+}
+#inner {
+    padding:.5em .5em .5em .5em;
+    
+}
+
+#FileUpload1 {
+    color:blue;
+    font-style:italic;
+    font-size:14px;
+}
+
+.upLoadBtn {
+font-size:14pt;
+}
+
+.LargeLabel {
+font-size:16pt;}
+
+.title {
+color:#036cae;
+text-align:center;
+}
+.row {
+    width:100%;
+}
+.red {
+color:red;}
+.pad {
+    padding-top:.5em;
+}
+.fLeft {
+    float:left;
+    width:48%;
+}
+.fLeft15 {
+    float:left;
+    width:15%;
+}
+.fLeft25 {
+    float:left;
+    width:25%;
+}
+.fLeft33 {
+    float:left;
+    width:33%;
+}
+.fLeftLarge {
+    float:left;
+    width:78%;
+}
+.clear {
+    clear:both;
+}
+.tb1 {
+    width:100%;
+}
+
+.lbl25 {
+    width:100%;
+}
+
+.TextBoxCaption {
+    width:250px;
+}
